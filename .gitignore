@@ -5,5 +5,5 @@ obj
 demo
 .vs
 .vscode
-credentials.json
+#credentials.json
 .serverless
