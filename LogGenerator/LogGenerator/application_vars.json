@@ -1,0 +1,4 @@
+﻿{
+  "log_group": "/lambda-sharp/log-parser/dev",
+  "log_stream": "test-log-stream"
+}

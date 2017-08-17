@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+./bin/Release/netcoreapp1.1/osx.10.11-x64/publish/LogGenerator $@
